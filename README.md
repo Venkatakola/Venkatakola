@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Venkatakola
-- 👀 I’m interested in Automation, Containers and Kubernetes
-- 🌱 I’m currently learning OpenShift and Ansible
-- 💞️ I’m looking to collaborate on Kubernetes abd Automation
+- 👀 I’m interested in Cloud, Automation, Kubernetes and DevSecOps
 - 📫 How to reach me venkata.kola@hotmail.com
 
 <!---
